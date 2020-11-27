@@ -23,8 +23,16 @@ def flag = true
 //class java.lang.String
 //class java.lang.Boolean
 
+//弱类型是可以自动转型的
+x = 'hello'
+y = "hello"
+ch = '''hello'''
+//class java.lang.String
+//class java.lang.String
+//class java.lang.String
+
 println x.class
 println y.class
 println ch.class
-println flag.class
+//println flag.class
 
