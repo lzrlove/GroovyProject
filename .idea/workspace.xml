@@ -19,12 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="31cd70e3-967b-44a8-9647-9b67ca1c3508" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/closure/ClosureTest.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/closure/ClosureTest2.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/closure/ClourseTest3.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/closure/ClourseTest4.groovy" afterDir="false" />
+    <list default="true" id="31cd70e3-967b-44a8-9647-9b67ca1c3508" name="Default Changelist" comment="groovy闭包">
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/FileOperator.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/data/ListTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/data/MapTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/data/RangeTest.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/objectclass/Action.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/objectclass/DefaultTrait.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/objectclass/ObjecStudy.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/objectclass/Person.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/parse/JsonStudy.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/parse/Person.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/lzr/study/parse/XMLStudy.groovy" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/GroovyProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GroovyProject.iml" afterDir="false" />
     </list>
@@ -50,10 +56,10 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
-  <component name="RunManager" selected="Groovy.ClourseTest4">
-    <configuration name="ClosureTest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+  <component name="RunManager" selected="Groovy.FileOperator">
+    <configuration name="FileOperator" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="GroovyProject" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/ClosureTest.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/FileOperator.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
       <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study" />
@@ -62,45 +68,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClosureTest2" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="JsonStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="GroovyProject" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/closure/ClosureTest2.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/parse/JsonStudy.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/closure" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/parse" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClourseTest3" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="ObjecStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="GroovyProject" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/closure/ClourseTest3.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/objectclass/ObjecStudy.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/closure" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/objectclass" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClourseTest4" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="RangeTest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="GroovyProject" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/closure/ClourseTest4.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/data/RangeTest.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/closure" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/data" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
+    <configuration name="XMLStudy" type="GroovyScriptRunConfiguration" factoryName="Groovy" temporary="true">
       <module name="GroovyProject" />
-      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/StringTest.groovy" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/com/lzr/study/parse/XMLStudy.groovy" />
       <setting name="vmparams" value="" />
       <setting name="params" value="" />
-      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study" />
+      <setting name="workDir" value="file://$PROJECT_DIR$/src/com/lzr/study/parse" />
       <setting name="debug" value="false" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Groovy.ClourseTest4" />
-        <item itemvalue="Groovy.ClourseTest3" />
-        <item itemvalue="Groovy.ClosureTest2" />
-        <item itemvalue="Groovy.ClosureTest" />
-        <item itemvalue="Groovy.StringTest" />
+        <item itemvalue="Groovy.FileOperator" />
+        <item itemvalue="Groovy.XMLStudy" />
+        <item itemvalue="Groovy.JsonStudy" />
+        <item itemvalue="Groovy.ObjecStudy" />
+        <item itemvalue="Groovy.RangeTest" />
       </list>
     </recent_temporary>
   </component>
@@ -127,6 +133,14 @@
       <option name="presentableId" value="Default" />
       <updated>1606468943517</updated>
     </task>
+    <task id="LOCAL-00001" summary="groovy闭包">
+      <created>1606572170649</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606572170649</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -139,51 +153,60 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="groovy闭包" />
+    <option name="LAST_COMMIT_MESSAGE" value="groovy闭包" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1173" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1606642043928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1173" y="214" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606642043928" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1606564725604">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606564725604" />
-    <state width="1877" height="324" key="GridCell.Tab.0.bottom" timestamp="1606571560241">
+    <state width="858" height="306" key="GridCell.Tab.0.bottom" timestamp="1606657973808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606571560241" />
-    <state width="1877" height="324" key="GridCell.Tab.0.center" timestamp="1606571560241">
+    <state width="858" height="306" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606657973808" />
+    <state width="858" height="306" key="GridCell.Tab.0.center" timestamp="1606657973808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606571560241" />
-    <state width="1877" height="324" key="GridCell.Tab.0.left" timestamp="1606571560241">
+    <state width="858" height="306" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606657973808" />
+    <state width="858" height="306" key="GridCell.Tab.0.left" timestamp="1606657973808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606571560241" />
-    <state width="1877" height="324" key="GridCell.Tab.0.right" timestamp="1606571560241">
+    <state width="858" height="306" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606657973808" />
+    <state width="858" height="306" key="GridCell.Tab.0.right" timestamp="1606657973808">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="324" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606571560241" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606568933724">
+    <state width="858" height="306" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606657973808" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1606572244520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606568933724" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606568933724">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606572244520" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1606572244520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606568933724" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606568933724">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606572244520" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1606572244519">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606568933724" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606568933724">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606572244519" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1606572244520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606568933724" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606572244520" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1606565801283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606565801283" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606571630469">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606657796155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606571630469" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606657796155" />
   </component>
 </project>
